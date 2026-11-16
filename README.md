@@ -12,7 +12,8 @@ Links to finished edits, kept here so they don't get lost. The files live in the
 | magnus-rage | Magnus Carlsen: table slams, then the aura | PASSO BEM SOLTO - ATLXS | 1:1, 17.3 s | [magnus-rage.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/chess-edits/magnus-rage.mp4) |
 | magnus-hikaru | Magnus and Hikaru: parody album-cover opening, karaoke captions | Black Beatles - Rae Sremmurd ft. Gucci Mane | 1:1, 19.6 s | [magnus-hikaru.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/chess-edits/magnus-hikaru.mp4) |
 | next-champion | Gukesh vs Sindarov: next world champion? | Who Is She? - I Monster | 4:3, 30.0 s | [next-champion.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/chess-edits/next-champion.mp4) |
-| gukesh-bw (v1) | Black-and-white graphic-design edit of Gukesh; a reworked version is in progress | My Ordinary Life - The Living Tombstone | 1:1, 21.8 s | [gukesh-bw-v1.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/chess-edits/gukesh-bw-v1.mp4) |
+| gukesh-bw (v3) | Black-and-white motion-design edit of Gukesh after the Levy reference (Remotion): eye-to-space zoom, CHECKMATE wall, clock tunnel, Carlsen, Singapore, Norway, a gallery of champions, the framed kid | My Ordinary Life - The Living Tombstone | 1:1, 38.0 s | [gukesh-bw.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/chess-edits/gukesh-bw.mp4) |
+| gukesh-bw (v1, old) | First version of the B&W edit | My Ordinary Life - The Living Tombstone | 1:1, 21.8 s | [gukesh-bw-v1.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/chess-edits/gukesh-bw-v1.mp4) |
 
 Project files for each edit (timeline, notes with sources and timestamps, generator scripts) are on the Mac under
 `~/Movies/clipfarm/chess-edits/edits/<name>/`.
