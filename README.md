@@ -3,6 +3,22 @@
 Links to finished edits, kept here so they don't get lost. The files live in the public R2 bucket `anime-edits`
 (Cloudflare account Kiraa@tuta.io's Account) and play straight in the browser.
 
+## Hard edits (2026-11-15 to 16)
+
+Beat-synced edits modelled on the same reference edit, all on the same 22.5 s of "Write This Down" (2Pac and
+Pop Smoke, Thug Theory mashup, sped up 1.15x).
+
+| edit | what | format | link |
+| --- | --- | --- | --- |
+| vibhuti-notes | Vibhuti (Bhabiji Ghar Par Hai!): the nalla at the stove taking Anita's scolding, then the don: the walk-in, Tiwari's jaw grab, the kick, Happu's folded hands on "say your prayers", the slap on "smack"; Dark Triad badge in the corner | 1:1, 22.5 s | [vibhuti-notes.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hard-edits/vibhuti-notes.mp4) |
+| naruto-notes | Kid Naruto in coloured manga panels, then peak Naruto from The Last against Toneri | 1:1, 22.5 s | [naruto-notes.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hard-edits/naruto-notes.mp4) |
+| dark-triad-naruto | The Dark Triad, Naruto edition: Jiraiya summons the toads, Kakashi goes through Zabuza and Kakuzu, Naruto goes through Pain | 1:1, 22.5 s | [dark-triad-naruto.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hard-edits/dark-triad-naruto.mp4) |
+| gukesh-vs-magnus | Kid Gukesh on ChessBase India names Carlsen as the one to beat; the drop is Norway Chess 2025 round 6: Carlsen in time trouble, the table slam on "smack", the walk-out | 1:1, 22.5 s | [gukesh-vs-magnus.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hard-edits/gukesh-vs-magnus.mp4) |
+| kira-vs-l | Death Note in plot order: the notebook falls, Kira rises, L closes in, the rooftop in the rain and the foot-washing, L's death, ending on Light's grin and the falling apple | 16:9, 22.5 s | [kira-vs-l.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hard-edits/kira-vs-l.mp4) |
+
+Project files (timeline, sources under `src/`, contact sheets) are on the Mac under `~/Movies/clipfarm/`, in
+`vibhuti-edit/`, `naruto-edit/`, `triad-edit/`, `gukesh-edit/` and `deathnote-edit/` (same order as the table).
+
 ## Chess edits (2026-11-16)
 
 | edit | what | song | format | link |
