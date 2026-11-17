@@ -54,3 +54,23 @@ in story order, the fights kept, motion design only as accents.
 
 Project files (Remotion source, notes with scene tables, sources and timestamps) are on the Mac under
 `~/Movies/clipfarm/invincible-edit/` for the first and `~/Movies/clipfarm/hero-edits/<character>/` for the rest.
+
+## Jane! and Stronger (2026-11-17)
+
+Each character on two songs. The "Jane!" edits are each character's redemption arc and him taking his enemies apart,
+graded dark, close to black and white with one accent colour. The "Stronger" edits each take their own concept. Every
+edit carries the hero's own voice lines.
+
+| edit | what | song | format | link |
+| --- | --- | --- | --- | --- |
+| deadpool-jane | Deadpool & Wolverine: "I want to matter" in Happy Hogan's office, "Maximum effort" in the snow and the TVA squad taken apart with Logan's bones, the Time Ripper, Vanessa: "Turns out, I am the world-saving type." | Jane! - The Long Faces | 16:9, 39.3 s | [deadpool-jane.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hero-edits/deadpool-jane.mp4) |
+| daredevil-jane | Born Again: Foggy dies, the rooftop beating of Bullseye, the unanswered 911 call, the red petal on the memorial card, then Fisk and Bullseye taken apart, ending on "part of me needs to forgive you" | Jane! - The Long Faces | 16:9, 36.7 s | [daredevil-jane.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hero-edits/daredevil-jane.mp4) |
+| ironman-jane | "The weapon you only have to fire once": the Jericho demo, the convoy, the cave ("My turn"), Gulmira and the tank, the stones and the dust, the reactor going out | Jane! - The Long Faces | 16:9, 40.0 s | [ironman-jane.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hero-edits/ironman-jane.mp4) |
+| invincible-jane | Season 4: Mark kills an innocent man, gives the dark suit back at Art's, takes Volcanikka apart in the Under Realm, then the old suit, "Follow me!", between his father and brother | Jane! - The Long Faces | 16:9, 28.0 s | [invincible-jane.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hero-edits/invincible-jane.mp4) |
+| deadpool-stronger | What doesn't kill him: the red-suit line, shot on the four sample hits, up on "can only make me stronger", torn in half by the Juggernaut, "I can't feel my legs!", the baby legs | Stronger - Kanye West | 16:9, 36.5 s | [deadpool-stronger.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hero-edits/deadpool-stronger.mp4) |
+| daredevil-stronger | "He always got back up": the boy under Stick's stick, Nobu set on fire, knocked down by Fisk and getting up on his father's line, the beating and "I beat you!" | Stronger - Kanye West | 16:9, 37.4 s | [daredevil-stronger.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hero-edits/daredevil-stronger.mp4) |
+| ironman-stronger | The suit getting harder, better, faster, stronger: the Mark II booting, the first flight, the Mark VII catching him out of the tower, the nanotech suit on Titan, "Genius, billionaire, playboy, philanthropist" | Stronger - Kanye West | 16:9, 35.3 s | [ironman-stronger.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hero-edits/ironman-stronger.mp4) |
+| invincible-stronger | The Conquest rematch: beaten into the city in season 3, then "You're never breathing again!" in season 4, the choke, the blood, "How much I've been holding back!", and the four blows on the sample | Stronger - Kanye West | 16:9, 37.7 s | [invincible-stronger.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hero-edits/invincible-stronger.mp4) |
+
+Project files (Remotion source, notes with beat sheets, scene tables, voice-line tables and the review each edit got)
+are on the Mac under `~/Movies/clipfarm/hero-edits/<character>/jane/` and `.../stronger/`.
