@@ -34,3 +34,23 @@ Project files (timeline, sources under `src/`, contact sheets) are on the Mac un
 
 Project files for each edit (timeline, notes with sources and timestamps, generator scripts) are on the Mac under
 `~/Movies/clipfarm/chess-edits/edits/<name>/`.
+
+## Hero edits (2026-11-17)
+
+The first is a motion-design piece in the gukesh-bw language. The other eight are footage-first: full-frame scenes
+in story order, the fights kept, motion design only as accents.
+
+| edit | what | song | format | link |
+| --- | --- | --- | --- | --- |
+| invincible-hero | Motion-design edit of Invincible (Remotion): the show on comic pages, the trash bag at Burger Mart going up to space, Omni-Man standing over the Guardians, father over son, the mountain | Holding Out for a Hero - Bonnie Tyler | 1:1, 36.5 s | [invincible-hero.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hero-edits/invincible-hero.mp4) |
+| invincible-normal-guy | Mark at his locker, punched by the bully, taking out the Burger Mart trash; on the hook his father puts him through a truck and the subway train, the mountain, Angstrom Levy, Conquest; the trash bag still going up, "It's about time." | Everyday Normal Guy 2 - Jon Lajoie | 16:9, 39.6 s | [invincible-normal-guy.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hero-edits/invincible-normal-guy.mp4) |
+| invincible-legacy | Nolan proud at little league, the first flight together, the Guardians, the fight over the city, the mountain and "I'd still have you", Thraxa, Conquest, alone above the Earth | LEGACY - PIXY | 16:9, 37.0 s | [invincible-legacy.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hero-edits/invincible-legacy.mp4) |
+| ironman-normal-guy | Tony eats a burger on the floor of his own press conference; on the hook the Mark I walks out of the cave, then the Hulkbuster fight; shawarma, nobody talks | Everyday Normal Guy 2 - Jon Lajoie | 16:9, 38.2 s | [ironman-normal-guy.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hero-edits/ironman-normal-guy.mp4) |
+| ironman-legacy | Howard's reel, Yinsen in the cave, "I am Iron Man", Siberia, Titan, the snap, the wreath on the lake | LEGACY - PIXY | 16:9, 37.5 s | [ironman-legacy.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hero-edits/ironman-legacy.mp4) |
+| deadpool-normal-guy | Wade the car salesman and his birthday party; on the hook the highway, the TVA squad, the Honda Odyssey fight with Wolverine, the street of Deadpools; back to the mirror | Everyday Normal Guy 2 - Jon Lajoie | 16:9, 38.1 s | [deadpool-normal-guy.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hero-edits/deadpool-normal-guy.mp4) |
+| deadpool-legacy | Vanessa, the diagnosis, the workshop and the chamber, the mask, Logan's grave, the worst Wolverine, the two of them holding the machine | LEGACY - PIXY | 16:9, 36.7 s | [deadpool-legacy.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hero-edits/deadpool-legacy.mp4) |
+| daredevil-normal-guy | The talking alarm clock, the cane, the braille display, home in the dark; on the hook the season 1 hallway, the season 2 stairwell, the season 3 prison riot; morning, a cut on his cheek | Everyday Normal Guy 2 - Jon Lajoie | 16:9, 38.4 s | [daredevil-normal-guy.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hero-edits/daredevil-normal-guy.mp4) |
+| daredevil-legacy | The confession booth, Battlin' Jack's robe, the boy stitching his father, the black mask, the hallway, Claire, the red suit and Fisk, the robe in the trunk | LEGACY - PIXY | 16:9, 40.5 s | [daredevil-legacy.mp4](https://pub-0247c5607054404c8af5064f866a4233.r2.dev/hero-edits/daredevil-legacy.mp4) |
+
+Project files (Remotion source, notes with scene tables, sources and timestamps) are on the Mac under
+`~/Movies/clipfarm/invincible-edit/` for the first and `~/Movies/clipfarm/hero-edits/<character>/` for the rest.
